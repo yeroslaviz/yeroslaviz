@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am a bioinformatician at the Max-Planck-Institute for Biochemistery (MPIB), working in the Computational Systems Biochemistry Group and as the Bioinformatics Core Facility of the institute. 
+I am responsible for data analysis of Omics data sets such as RNA-Seq, ChIP-Seq, Bisulphite-Seq, WGS, and de-novo Sequencing as well as for more Sequence-based projects such as BLAST, phylogenetics, motif and domain search. 
+
+my website can be found here - https://yeroslaviz.github.io/
+
+
+
+I have earned my PhD from the University of Duesseldorf in 2013 studying the repsonsse of plants (A. thaliana) to various abiotic stress factors using Microarrays
